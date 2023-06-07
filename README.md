@@ -23,4 +23,4 @@ Run the malicious shellcode from the file with
 
 ## Proof of Concept
 
-![SignatureGate](https://github.com/florylsk/SignatureGate/assets/46110263/1e89b761-3a6e-42d9-b15f-96ab70f011c7)
+![SignatureGate](https://github.com/florylsk/SignatureGate/assets/46110263/a7352770-c66d-4afe-ac41-78c4ff1fa294)
